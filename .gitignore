@@ -1,0 +1,47 @@
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Testing / Coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# CSV Files
+*.csv
+
+# IDE / Editor Configurations
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+.spyderproject
+.spyproject
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
